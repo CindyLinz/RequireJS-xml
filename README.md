@@ -17,6 +17,12 @@ require([..., 'xml!xxx.xml', ...], function(..., xml, ...){
 });
 ```
 
+```javascript
+require([..., 'xml!xxx.svg', ...], function(..., svg, ...){
+    // ...
+});
+```
+
 License
 =======
 
